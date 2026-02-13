@@ -6,7 +6,6 @@ A redesigned 3-step paralegal hours calculator built as a lightweight WordPress 
 - Multi-step UX (Tasks → Hourly Rate → Results)
 - Weekly / Monthly toggle
 - Responsive (mobile-optimized)
-- Accessible (inactive inputs disabled for mouse + keyboard)
 - Scoped CSS to avoid theme conflicts
 
 ## Installation
