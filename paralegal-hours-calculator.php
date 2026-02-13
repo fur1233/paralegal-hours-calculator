@@ -3,7 +3,7 @@
  * Plugin Name: Paralegal Hours Calculator (Test)
  * Description: A 3-step paralegal hours calculator as a shortcode. Use shortcode: [paralegal_hours_calculator]
  * Version: 1.0.1
- * Author: Farjad Rehman
+ * Author: Farjad ur Rehman
  * Author URI: https://github.com/fur1233/
  * License: GPLv2 or later
  * Text Domain: paralegal-hours-calculator
